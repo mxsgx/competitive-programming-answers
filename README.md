@@ -8,7 +8,7 @@ Merupakan jawaban yang saya kerjakan untuk soal "Competitive Programming Exercis
 
 ## Progres
 
-- [ ] Soal ke-1
+- [x] Soal ke-1
 - [ ] Soal ke-2
 - [ ] Soal ke-3
 - [ ] Soal ke-4
