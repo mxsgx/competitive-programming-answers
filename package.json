@@ -1,0 +1,26 @@
+{
+  "name": "competitive-programming-answers",
+  "version": "0.0.0",
+  "description": "Merupakan jawaban yang saya kerjakan untuk soal \"Competitive Programming Exercises\" dari repository milik restuwahyu13/competitive-programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxsgx/competitive-programming-answers.git"
+  },
+  "keywords": [
+    "competitive-programming"
+  ],
+  "author": "Masga Satria Wirawan <mxsgx.id@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxsgx/competitive-programming-answers/issues"
+  },
+  "homepage": "https://github.com/mxsgx/competitive-programming-answers#readme",
+  "devDependencies": {
+    "jest": "^27.2.0",
+    "prettier": "^2.4.0"
+  }
+}
